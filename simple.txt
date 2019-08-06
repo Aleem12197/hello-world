@@ -1,3 +1,4 @@
-<html>
-You are a stupid
-</html>
+print(){
+  printf("quick brown fox jumps over the lazy dog");
+}
+
